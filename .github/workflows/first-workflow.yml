@@ -1,7 +1,7 @@
 # copy from below and paste while creating second yaml file
 
 # name is an inbuilt identifier to name your workflow
-name: second workflow for action-code repo
+name: first workflow for action-code repo
 
 # on is an inbuilt identifier. 
 # It will trigger the workflow. workflow_dispatch will trigger workflow manually from Github Action UI
